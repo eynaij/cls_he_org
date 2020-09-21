@@ -1,0 +1,12 @@
+#log
+log.txt
+
+#checkpoint
+pl_ckpts/
+
+#image
+Chart*.png
+plot/
+
+#result
+*.csv
